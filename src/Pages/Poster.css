@@ -1,0 +1,44 @@
+.poster {
+  background-color: black;
+  height: 63vh;
+  margin-top: -10px;
+  display: flex;
+  justify-content: space-between;
+}
+.poster {
+  bottom: 0;
+  border-bottom: 50px solid #ff8000;
+  border-left: 0px solid black;
+}
+.poster__logo {
+  padding: 30px;
+  margin-left: 30px;
+}
+.poster__logo > h1 {
+  margin-top: 20px;
+  color: white;
+  font-size: 45px;
+  font-weight: 500 !important;
+}
+.poster__logo > button {
+  margin-top: 20px;
+  background-color: yellow;
+  font-weight: 500 !important ;
+  font-weight: 600 !important ;
+  border-radius: 50px;
+  text-transform: inherit;
+}
+.poster__logo > button:hover {
+  background-color: #ffed00;
+}
+.knowmore {
+  font-weight: 500 !important;
+}
+.poster__image > img {
+  background-color: rgba(0, 0, 0, 1);
+  margin-top: 20px;
+  margin-right: 20px;
+}
+.poster__image {
+  background-color: rgba(0, 0, 0, 1);
+}

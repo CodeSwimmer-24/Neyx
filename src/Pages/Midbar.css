@@ -1,0 +1,55 @@
+.midbar {
+  background-color: #ff8000;
+  height: 45vh;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.midbar__celendar {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.midbar__celendar > .MuiSvgIcon-root {
+  color: white;
+  margin-top: 50px;
+  font-size: 100px;
+}
+.midbar__celendar > p {
+  max-width: 20vw;
+  text-align: center;
+  align-items: center;
+  color: white;
+}
+.midbar__wollet {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.midbar__wollet > .MuiSvgIcon-root {
+  color: white;
+  margin-top: 50px;
+  font-size: 100px;
+}
+.midbar__wollet > p {
+  max-width: 20vw;
+  text-align: center;
+  align-items: center;
+  color: white;
+}
+.midbar__laptop {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.midbar__laptop > .MuiSvgIcon-root {
+  color: white;
+  margin-top: 50px;
+  font-size: 100px;
+}
+.midbar__laptop > p {
+  max-width: 20vw;
+  text-align: center;
+  align-items: center;
+  color: white;
+}

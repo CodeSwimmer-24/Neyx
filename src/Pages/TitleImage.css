@@ -1,0 +1,12 @@
+.teamimage__image {
+  height: 180px;
+  padding: 20px;
+}
+.titleimage {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.titleimage > p {
+  color: white;
+}

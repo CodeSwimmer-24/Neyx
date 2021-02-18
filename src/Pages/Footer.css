@@ -1,0 +1,42 @@
+.footer {
+  background-color: #3d3d3d;
+  height: 19vh;
+  display: flex;
+  justify-content: space-between;
+}
+.footer__left > h5 {
+  padding-left: 30px;
+  padding-top: 20px;
+  padding-bottom: 8px;
+  color: #bfbfbf;
+}
+.footer__icons {
+  display: flex;
+  padding-left: 10px;
+}
+.facebook > img {
+  height: 25px;
+}
+.insta > img {
+  height: 25px;
+}
+.tweeter > img {
+  height: 25px;
+}
+.yt > img {
+  height: 40px;
+}
+.footer__right {
+  display: flex;
+  align-items: center;
+}
+.termcondition {
+  color: #bfbfbf;
+  padding: 20px;
+}
+.call {
+  color: #bfbfbf;
+  display: flex;
+  align-items: center;
+  padding: 20px;
+}

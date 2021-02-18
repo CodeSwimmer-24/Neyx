@@ -1,0 +1,21 @@
+.header {
+  background-color: white;
+  display: flex;
+  justify-content: space-between;
+}
+.header__left > img {
+  height: 90px;
+  margin-left: 20px;
+}
+.header__right > ul {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  list-style-type: none;
+  margin-right: 20px;
+  padding: 20px;
+  font-weight: 500;
+}
+.header__right > ul > li {
+  padding: 20px;
+}
